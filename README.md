@@ -28,10 +28,13 @@
 <br/>
 
 <div class='container'>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoni" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" src="https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark" /></div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoni" />
+  &nbsp;
+  &nbsp;
+  <a href="https://velog.io/@zzoni">
+    <img style="height: auto; width: 40%;" src="https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark" />
+  </a>
 </div>
+
 </div>
 
