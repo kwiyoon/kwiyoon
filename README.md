@@ -27,7 +27,11 @@
 <br/>
 <br/>
 
-[![beakjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoni)](https://solved.ac/zzoni)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark)](https://velog.io/@zzoni)
+<div class='container'>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoni" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" src="https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark" /></div>
 </div>
+</div>
+
