@@ -4,9 +4,11 @@
   
 <br/>
 <br/>
-<br/>
+</div>
 
-####  :books: Languages & Frameworks & Platforms :books:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills
+
+####  :books: Languages & Frameworks & Platforms 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><br/>
@@ -14,8 +16,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
 
 <br/>
+<br/>
 
-####  :hammer_and_wrench: Tools :hammer_and_wrench:
+####   :hammer_and_wrench: Softwares and Tools
 
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white">
@@ -24,6 +27,10 @@
   
 <br/>
 <br/>
+<br/>
+
+---
+
 <br/>
 <br/>
 
