@@ -47,7 +47,11 @@
     </a>
   </div>
 </div>
+<br>
 
+---
+
+<br><br>
 <div align="center"> 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kwiyoon&utm_content=farm">
 <img
