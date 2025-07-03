@@ -51,6 +51,28 @@
 
 ---
 
+### 🏋🏻 Activity
+
+<p style="display: flex; align-items: center; margin: 0;">
+    <img height="20" 
+         src="https://i.namu.wiki/i/E4gAwg65fMroWtXG5POYiwcGseYpmfhrm9fYxCzSqXThXDMEG9yZAjkkq8_bQEkrIjAQZrQSObatdE-eDp86xQ.svg" 
+         style="margin-right: 5px;">
+        <img height="20" 
+         src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
+         style="margin-right: 5px;">
+        <img height="20" 
+         src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
+         style="margin-right: 5px;">
+</p>  
+
+건국대학교(본교) 컴퓨터공학부 (2025.08 졸업예정)  
+KUIT 1기 서버 파트 수료 (🏆우수 워크북 선정)       
+KUIT 2기 서버 튜터 활동  
+KUIT 3기 서버 파트장 활동  
+
+---
+
+
 <br><br>
 <div align="center"> 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kwiyoon&utm_content=farm">
