@@ -24,9 +24,9 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/jira-166CD7?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/confluence-166CD7?style=for-the-badge&logo=confluence&logoColor=white"><br>
+<img src="https://img.shields.io/badge/confluence-166CD7?style=for-the-badge&logo=confluence&logoColor=white">
+<img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"><br>
 <img src="https://img.shields.io/badge/discord-5462EB?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/slack-481449?style=for-the-badge&logo=slack&logoColor=white">
   
 <br/>
