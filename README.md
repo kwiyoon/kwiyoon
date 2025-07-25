@@ -22,12 +22,12 @@
 
 ####   :hammer_and_wrench: Softwares and Tools
 
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white">
-<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<img src="https://img.shields.io/badge/jira-166CD7?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/confluence-166CD7?style=for-the-badge&logo=confluence&logoColor=white"><br>
+<img src="https://img.shields.io/badge/discord-5462EB?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/slack-481449?style=for-the-badge&logo=slack&logoColor=white">
   
 <br/>
 <br/>
