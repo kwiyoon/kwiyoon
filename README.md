@@ -35,22 +35,6 @@
 
 ---
 
-<br/>
-<br/>
-<div align="center"> 
-  <div class='container'>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoni" />
-    &nbsp;
-    &nbsp;
-    <a href="https://velog.io/@zzoni">
-      <img style="height: auto; width: 40%;" src="https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark" />
-    </a>
-  </div>
-</div>
-<br>
-
----
-
 ### 🏋🏻 Activity
 
 <p style="display: flex; align-items: center; margin: 0;">
@@ -72,15 +56,24 @@ KUIT 3기 서버 파트장 활동
 
 ---
 
-
-<br><br>
+<br/>
+<br/>
 <div align="center"> 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kwiyoon&utm_content=farm">
+  <div class='container'>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kwiyoon&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/kwiyoon"
-  width="600"
-  height="300"
+  width="450"
 />
 </a>
+    <a href="https://velog.io/@zzoni">
+      <img style="height: auto; width: 40%;" src="https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark" />
+    </a>
+  </div>
 </div>
+<br>
+
+
+<br><br>
+
 
