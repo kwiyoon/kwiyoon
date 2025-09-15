@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/AWS RDS-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white">
@@ -50,30 +51,10 @@
 </p>  
 
 건국대학교(본교) 컴퓨터공학부 (2026.02 졸업예정)  
-KUIT 1기 서버 파트 수료 (🏆우수 워크북 선정)       
-KUIT 2기 서버 튜터 활동  
-KUIT 3기 서버 파트장 활동  
+KUIT 1~2기 서버 파트 수료 및 튜터 활동 (`23.03~24.02`)
+KUIT 3기 서버 파트장 활동 (`24.02~24.08`)
 
 ---
 
-<br/>
-<br/>
-<div align="center"> 
-  <div class='container'>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kwiyoon&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/kwiyoon"
-  width="450"
-/>
-</a>
-    <a href="https://velog.io/@zzoni">
-      <img style="height: auto; width: 40%;" src="https://velog-readme-stats.vercel.app/api?name=zzoni&color=dark" />
-    </a>
-  </div>
-</div>
-<br>
-
-
-<br><br>
-
-
+### Blog
+[JsonParseException 핸들링과 Request Body 캐싱 전략](https://velog.io/@zzoni/Spring-JsonParseException-%ED%95%B8%EB%93%A4%EB%A7%81%EA%B3%BC-Request-Body-%EC%BA%90%EC%8B%B1-%EC%A0%84%EB%9E%B5)
