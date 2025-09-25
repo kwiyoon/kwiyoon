@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/AWS RDS-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white">
@@ -21,14 +21,12 @@
 <br/>
 <br/>
 
-####   :hammer_and_wrench: Softwares and Tools
+####   :hammer_and_wrench: Collaborative Software
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/jira-166CD7?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/confluence-166CD7?style=for-the-badge&logo=confluence&logoColor=white">
 <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white"><br>
-<img src="https://img.shields.io/badge/discord-5462EB?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/slack-481449?style=for-the-badge&logo=slack&logoColor=white">
   
 <br/>
 <br/>
