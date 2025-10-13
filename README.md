@@ -1,20 +1,18 @@
-<div align="center"> 
+## About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=kwiyoon's%20github&color=0:FFE4E1,100:008B8B)
-  
-<br/>
-<br/>
-</div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills
 
 ####  :books: Languages & Frameworks & Platforms 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=FFF">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/AWS RDS-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white">
 
@@ -32,9 +30,8 @@
 <br/>
 <br/>
 
----
 
-### 🏋🏻 Activity
+## 🏋🏻 Activity
 
 <p style="display: flex; align-items: center; margin: 0;">
     <img height="20" 
