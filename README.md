@@ -44,13 +44,15 @@
          src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
          style="margin-right: 5px;">
         <img height="20" 
-         src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
+         src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" 
          style="margin-right: 5px;">
 </p>  
 
-건국대학교(본교) 컴퓨터공학부 (2026.02 졸업예정)  
-KUIT 1~2기 서버 파트 수료 및 튜터 활동 (`23.03~24.02`)
-KUIT 3기 서버 파트장 활동 (`24.02~24.08`)
+- 건국대학교(본교) 컴퓨터공학부 (2026.02 졸업예정)  
+- KUIT 1~2기 서버 파트 수료 및 튜터 활동 (`23.03~24.02`) 
+- KUIT 3기 서버 파트장 활동 (`24.02~24.08`)
+- 신한DS 금융SW 아카데미 (`25.04.01~25.10.01`) 
+  - 🏆 팀프로젝트 최우수상 ([AirBnG](https://github.com/shinhanDsActeam/AirBnG) 팀장)
 
 ---
 
