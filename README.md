@@ -3,7 +3,6 @@
 책임감, 열정과 끈기, 배움의 즐거움을 바탕으로 성장하고 있습니다.
 
 <br/>
-<br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills
 
@@ -35,7 +34,7 @@
 ## 🏋🏻 Activity
 - <img height="20" 
          src="https://i.namu.wiki/i/E4gAwg65fMroWtXG5POYiwcGseYpmfhrm9fYxCzSqXThXDMEG9yZAjkkq8_bQEkrIjAQZrQSObatdE-eDp86xQ.svg" 
-         style="margin-right: 5px;"> 건국대학교(본교) 컴퓨터공학부 (2026.02 졸업예정)  
+         style="margin-right: 5px;"> 건국대학교(본교) 컴퓨터공학부 (`2026.02` 졸업예정)  
 - <img height="20" 
      src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
      style="margin-right: 5px;"> KUIT 1~2기 서버 파트 수료 및 튜터 활동 (`23.03 ~ 24.02`) 
@@ -47,6 +46,13 @@
      style="margin-right: 5px;"> 신한DS 금융SW 아카데미 (`25.04 ~ 25.10`) 
   - 🏆 팀프로젝트 최우수상 ([AirBnG](https://github.com/shinhanDsActeam/AirBnG) 팀장)
   
+<br/>
+<br/>
+
+## 🪪 Certificates
+- **정보처리기사** (한국산업인력공단 주관) `2025.12.24` 취득
+- **SQLD** (한국데이터산업진흥원 주관) `2025.06.27` 취득
+
 <br/>
 <br/>
 
