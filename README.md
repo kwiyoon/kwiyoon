@@ -1,8 +1,4 @@
-## 🙋🏻‍♀️ About Me
-함께 성장하며 더 나은 세상을 만들고 싶은 백엔드 개발자 강지윤입니다. <br/>
-책임감, 열정과 끈기, 배움의 즐거움을 바탕으로 성장하고 있습니다.
-
-<br/>
+## 🙋🏻‍♀️ Hi, I'm Jiyoon
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills
 
@@ -30,27 +26,15 @@
 <br/>
 
 
-## 🏋🏻 Activity
-- <img height="20" 
-         src="https://i.namu.wiki/i/E4gAwg65fMroWtXG5POYiwcGseYpmfhrm9fYxCzSqXThXDMEG9yZAjkkq8_bQEkrIjAQZrQSObatdE-eDp86xQ.svg" 
-         style="margin-right: 5px;"> 건국대학교(본교) 컴퓨터공학부 (`2026.02` 졸업예정)  
-- <img height="20" 
-     src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
-     style="margin-right: 5px;"> KUIT 1~2기 서버 파트 수료 및 튜터 활동 (`23.03 ~ 24.02`) 
-- <img height="20" 
-     src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
-     style="margin-right: 5px;"> KUIT 3기 서버 파트장 활동 (`24.02 ~ 24.08`)
-- <img height="20" 
-     src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" 
-     style="margin-right: 5px;"> 신한DS 금융SW 아카데미 (`25.04 ~ 25.10`) 
-  - 🏆 팀프로젝트 최우수상 ([AirBnG](https://github.com/shinhanDsActeam/AirBnG) 팀장)
-  
-<br/>
-<br/>
+## 🏋🏻 Experiences
+| Activity | Detail |Date |
+|-------|-------|-------|
+|<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" style="margin-right: 5px;"> 신한DS 금융SW 아카데미| [웹사이트 리뉴얼 프로젝트](https://shinhanacademy.com/) 용역 |2025.12 ~ 2026.01|
+|정보처리기사 취득|한국산업인력공단 주관|2025.12.24|
+|<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" style="margin-right: 5px;"> 신한DS 금융SW 아카데미| 🏆 팀프로젝트 최우수상 ([AirBnG](https://github.com/shinhanDsActeam/AirBnG) 팀장)|2025.04 ~ 2025.10|
+|SQLD 취득|한국데이터산업진흥원 주관|2025.06.27|
+|<img height="20" src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" style="margin-right: 5px;"> 건국대학교 기획/개발 동아리 KUIT |1~2기 백엔드 파트 수료 및 튜터 활동<br/>3기 백엔드 파트장 활동|2023.03 ~ 2024.08|
 
-## 🪪 Certificates
-- **정보처리기사** (한국산업인력공단 주관) `2025.12.24` 취득
-- **SQLD** (한국데이터산업진흥원 주관) `2025.06.27` 취득
 
 <br/>
 <br/>
