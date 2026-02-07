@@ -20,7 +20,7 @@
 ## 🏋🏻 Experiences
 | Activity | Detail |Date |
 |-------|-------|-------|
-|<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" style="margin-right: 5px;"> 신한DS 금융SW 아카데미| [웹사이트 리뉴얼 프로젝트](https://shinhanacademy.com/) 용역 |2025.12 ~ 2026.01|
+|<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" style="margin-right: 5px;"> 신한DS 금융SW 아카데미| [웹사이트 리뉴얼 프로젝트](https://shinhanacademy.com/) 위탁 개발 |2025.12 ~ 2026.01|
 |정보처리기사 취득|한국산업인력공단 주관|2025.12.24|
 |<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" style="margin-right: 5px;"> 신한DS 금융SW 아카데미| 🏆 팀프로젝트 최우수상 ([AirBnG](https://github.com/shinhanDsActeam/AirBnG) 팀장, 풀스택)|2025.04 ~ 2025.10|
 |SQLD 취득|한국데이터산업진흥원 주관|2025.06.27|
