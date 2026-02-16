@@ -20,11 +20,11 @@
 ## 🏋🏻 Experiences
 | Activity | Detail |Date |
 |-------|-------|-------|
-|<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" style="margin-right: 5px;"> 신한DS 금융SW 아카데미| [웹사이트 리뉴얼 프로젝트](https://shinhanacademy.com/) 위탁 개발 |2025.12 ~ 2026.01|
+|<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" align="center"> 신한DS 금융SW 아카데미| [웹사이트 리뉴얼 프로젝트](https://shinhanacademy.com/) 위탁 개발 |2025.12 ~ 2026.01|
 |정보처리기사 취득|한국산업인력공단 주관|2025.12.24|
-|<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" style="margin-right: 5px;"> 신한DS 금융SW 아카데미| 🏆 팀프로젝트 최우수상 ([AirBnG](https://github.com/shinhanDsActeam/AirBnG) 팀장, 풀스택)|2025.04 ~ 2025.10|
+|<img height="20" src="https://www.shinhands.co.kr/assets/images/about/ci_meaning.png" align="center"> 신한DS 금융SW 아카데미| 🏆 팀프로젝트 최우수상 ([AirBnG](https://github.com/shinhanDsActeam/AirBnG) 팀장, 풀스택)|2025.04 ~ 2025.10|
 |SQLD 취득|한국데이터산업진흥원 주관|2025.06.27|
-|<img height="20" src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" style="margin-right: 5px;"> 건국대학교 기획/개발 동아리 KUIT |1~2기 백엔드 파트 수료 및 튜터 활동<br/>3기 백엔드 파트장 활동|2023.03 ~ 2024.08|
+|<img height="20" src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" align="center"> 건국대학교 기획/개발 동아리 KUIT |1~2기 백엔드 파트 수료 및 튜터 활동<br/>3기 백엔드 파트장 활동|2023.03 ~ 2024.08|
 
 
 <br/>
