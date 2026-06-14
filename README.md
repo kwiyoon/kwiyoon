@@ -32,3 +32,5 @@
 
 ## 🗒️ Blog
 [JsonParseException 핸들링과 Request Body 캐싱 전략](https://velog.io/@zzoni/Spring-JsonParseException-%ED%95%B8%EB%93%A4%EB%A7%81%EA%B3%BC-Request-Body-%EC%BA%90%EC%8B%B1-%EC%A0%84%EB%9E%B5)
+
+[[MySQL] 인덱스 원칙대로 바꿨는데 쿼리가 5배 느려진 이유](https://zzooni.tistory.com/14)
